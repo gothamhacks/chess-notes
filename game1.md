@@ -1,1 +1,0 @@
-ctf{G00dProgress}
